@@ -39,7 +39,7 @@ public double bagi(){
 }
  
   public void pengurangan(){
-     System.out.println("Penguranga: " + a + " - " + b + " = " + kurang());
+     System.out.println("Pengurangan: " + a + " - " + b + " = " + kurang());
 }
    public void perkalian(){
      System.out.println("Perkalian: " + a + " * " + b + " = " + kali());
